@@ -682,6 +682,13 @@ a {
 .cid-srHjVF8AXO {
   background-image: url("../../../assets/images/background11.jpg");
 }
+.cid-srHjVF8AXO .mbr-section-title {
+  color: #ca0000;
+}
+.cid-srHjVF8AXO .mbr-text,
+.cid-srHjVF8AXO .mbr-section-btn {
+  color: #ca0000;
+}
 .cid-srHlrSMQyH {
   padding-top: 6rem;
   padding-bottom: 6rem;
